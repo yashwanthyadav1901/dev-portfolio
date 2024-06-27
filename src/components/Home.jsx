@@ -9,7 +9,7 @@ const Home = () => {
       name="home"
       className="h-screen w-full bg-gradient-to-b  from-black via-black to-gray-800"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 gap-14 md:flex-row">
+      <div className="max-w-screen-lg h-full mx-auto flex flex-col items-center justify-center h-full px-4 gap-14 pt-24 md:flex-row">
         <div className="w-96 object-fill">
           <img
             src={HeroImage}
